@@ -1,0 +1,13 @@
+{
+  "name": "daFinndus' jingle bundle",
+  "entries": [
+    {
+      "game": "Animal Crossing - New Leaf",
+      "file": "jingles/n3ds/animal_crossing-new_leaf.mp3"
+    },
+    {
+      "game": "Example Game 2",
+      "file": "jingles/example-game-2.mp3"
+    }
+  ]
+}
