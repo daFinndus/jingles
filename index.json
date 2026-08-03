@@ -2,93 +2,93 @@
   "name": "daFinndus' jingle bundle",
   "gb": [
     {
-      "game": "Pokemon - Yellow Version",
-      "file": "jingles/gb/pokemon_yellow.mp3"
+      "file": "jingles/gb/pokemon_yellow.mp3",
+      "game": "Pokemon - Yellow Version"
     }
   ],
   "gba": [
     {
-      "game": "Pokemon - Emerald",
-      "file": "jingles/gba/pokemon_emerald.mp3"
+      "file": "jingles/gba/pokemon_emerald.mp3",
+      "game": "Pokemon - Emerald"
     },
     {
-      "game": "Pokemon - Sapphire",
-      "file": "jingles/gba/pokemon_sapphire.mp3"
-    }
-  ],
-  "nds": [
-    {
-      "game": "LEGO Harry Potter",
-      "file": "jingles/nds/lego_harry_potter.mp3",
-      "regex": "harry potter"
-    },
-    {
-      "game": "LEGO Pirates of the Carribean - The Video Game",
-      "file": "jingles/nds/lego_pirates_of_the_carribean-the_video_game.mp3"
-    },
-    {
-      "game": "LEGO Star Wars II - The Original Trilogy",
-      "file": "jingles/nds/lego_star_wars_ii-the_original_trilogy.mp3"
-    },
-    {
-      "game": "LEGO Star Wars III - The Clone Wars",
-      "file": "jingles/nds/lego_star_wars_iii-the_clone_wars.mp3"
-    },
-    {
-      "game": "Pokemon - Black Version",
-      "file": "jingles/nds/pokemon_black.mp3"
-    },
-    {
-      "game": "Pokemon - Black Version 2",
-      "file": "jingles/nds/pokemon_black-2.nds"
-    },
-    {
-      "game": "Pokemon - Platinum",
-      "file": "jingles/nds/pokemon_platinum.mp3"
-    },
-    {
-      "game": "Animal Crossing - Wild World",
-      "file": "jingles/nds/animal_crossing-wild_world.mp3"
+      "file": "jingles/gba/pokemon_sapphire.mp3",
+      "game": "Pokemon - Sapphire"
     }
   ],
   "n3ds": [
     {
-      "game": "Animal Crossing - New Leaf",
-      "file": "jingles/n3ds/animal_crossing-new_leaf.mp3"
+      "file": "jingles/n3ds/animal_crossing-new_leaf.mp3",
+      "game": "Animal Crossing - New Leaf"
     },
     {
-      "game": "Pokemon - Omega Ruby",
-      "file": "jingles/n3ds/pokemon_omega_ruby.mp3"
+      "file": "jingles/n3ds/pokemon_omega_ruby.mp3",
+      "game": "Pokemon - Omega Ruby"
     },
     {
-      "game": "Pokemon - Sun",
-      "file": "jingles/n3ds/pokemon_sun.mp3"
+      "file": "jingles/n3ds/pokemon_sun.mp3",
+      "game": "Pokemon - Sun"
     },
     {
-      "game": "Pokemon - Ultra Moon",
-      "file": "jingles/n3ds/pokemon_ultra_moon.mp3"
+      "file": "jingles/n3ds/pokemon_ultra_moon.mp3",
+      "game": "Pokemon - Ultra Moon"
     },
     {
-      "game": "Pokemon - X",
-      "file": "jingles/n3ds/pokemon_x.mp3"
+      "file": "jingles/n3ds/pokemon_x.mp3",
+      "game": "Pokemon - X"
+    }
+  ],
+  "nds": [
+    {
+      "file": "jingles/nds/lego_harry_potter.mp3",
+      "game": "LEGO Harry Potter",
+      "regex": "harry potter"
+    },
+    {
+      "file": "jingles/nds/lego_pirates_of_the_carribean-the_video_game.mp3",
+      "game": "LEGO Pirates of the Carribean - The Video Game"
+    },
+    {
+      "file": "jingles/nds/lego_star_wars_ii-the_original_trilogy.mp3",
+      "game": "LEGO Star Wars II - The Original Trilogy"
+    },
+    {
+      "file": "jingles/nds/lego_star_wars_iii-the_clone_wars.mp3",
+      "game": "LEGO Star Wars III - The Clone Wars"
+    },
+    {
+      "file": "jingles/nds/pokemon_black.mp3",
+      "game": "Pokemon - Black Version"
+    },
+    {
+      "file": "jingles/nds/pokemon_black-2.nds",
+      "game": "Pokemon - Black Version 2"
+    },
+    {
+      "file": "jingles/nds/pokemon_platinum.mp3",
+      "game": "Pokemon - Platinum"
+    },
+    {
+      "file": "jingles/nds/animal_crossing-wild_world.mp3",
+      "game": "Animal Crossing - Wild World"
     }
   ],
   "ps2": [
     {
-      "game": "LEGO Star Wars - The Complete Saga",
-      "file": "jingles/ps2/lego_star_wars-the_complete_saga.mp3"
+      "file": "jingles/ps2/lego_star_wars-the_complete_saga.mp3",
+      "game": "LEGO Star Wars - The Complete Saga"
     },
     {
-      "game": "LEGO Batman - The Videogame",
-      "file": "jingles/ps2/lego_batman-the_video_game.mp3"
+      "file": "jingles/ps2/lego_batman-the_video_game.mp3",
+      "game": "LEGO Batman - The Videogame"
     },
     {
-      "game": "LEGO Indiana Jones - The Original Adventures",
-      "file": "jingles/ps2/lego_indiana_jones-the_original_adventures.mp3"
+      "file": "jingles/ps2/lego_indiana_jones-the_original_adventures.mp3",
+      "game": "LEGO Indiana Jones - The Original Adventures"
     },
     {
-      "game": "FIFA 14",
-      "file": "jingles/ps2/fifa_14.mp3"
+      "file": "jingles/ps2/fifa_14.mp3",
+      "game": "FIFA 14"
     }
   ]
 }
