@@ -1,10 +1,12 @@
 {
   "name": "daFinndus' jingle bundle",
-  "entries": [
+  "gb": [
     {
       "game": "Pokemon - Yellow Version",
       "file": "jingles/gb/pokemon_yellow.mp3"
-    },
+    }
+  ],
+  "gba": [
     {
       "game": "Pokemon - Emerald",
       "file": "jingles/gba/pokemon_emerald.mp3"
@@ -12,11 +14,13 @@
     {
       "game": "Pokemon - Sapphire",
       "file": "jingles/gba/pokemon_sapphire.mp3"
-    },
+    }
+  ],
+  "nds": [
     {
       "game": "LEGO Harry Potter",
       "file": "jingles/nds/lego_harry_potter.mp3",
-      "regex": "harry potter",
+      "regex": "harry potter"
     },
     {
       "game": "LEGO Pirates of the Carribean - The Video Game",
@@ -45,7 +49,9 @@
     {
       "game": "Animal Crossing - Wild World",
       "file": "jingles/nds/animal_crossing-wild_world.mp3"
-    },
+    }
+  ],
+  "n3ds": [
     {
       "game": "Animal Crossing - New Leaf",
       "file": "jingles/n3ds/animal_crossing-new_leaf.mp3"
@@ -65,7 +71,9 @@
     {
       "game": "Pokemon - X",
       "file": "jingles/n3ds/pokemon_x.mp3"
-    },
+    }
+  ],
+  "ps2": [
     {
       "game": "LEGO Star Wars - The Complete Saga",
       "file": "jingles/ps2/lego_star_wars-the_complete_saga.mp3"
@@ -81,6 +89,6 @@
     {
       "game": "FIFA 14",
       "file": "jingles/ps2/fifa_14.mp3"
-    },
+    }
   ]
 }
