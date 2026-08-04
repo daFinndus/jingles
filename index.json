@@ -224,6 +224,26 @@
     {
       "file": "jingles/ps2/fifa_14.mp3",
       "game": "FIFA 14"
+    },
+    {
+      "file": "jingles/ps2/god_of_war-2.mp3",
+      "game": "God of War II"
+    },
+    {
+      "file": "jingles/ps2/grand_theft_auto-san_andreas.mp3",
+      "game": "Grand Theft Auto - San Andreas"
+    },
+    {
+      "file": "jingles/ps2/spongebob_squarepants-battle_for_bikini_bottom.mp3",
+      "game": "Spongebob Squarepants - Battle for Bikini Bottom"
+    },
+    {
+      "file": "jingles/ps2/spongebob_squarepants-the_movie.mp3",
+      "game": "Spongebob Squarepants - The Movie"
+    },
+    {
+      "file": "jingles/ps2/star_wars-the_force_unleashed.mp3",
+      "game": "Star Wars - The Force Unleashed"
     }
   ]
 }
