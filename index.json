@@ -118,6 +118,10 @@
     {
       "file": "jingles/nds/the_sims_2-castaway.mp3",
       "game": "The Sims 2 - Castaway"
+    },
+    {
+      "file": "jingles/nds/ghost_trick-phantom_detective.mp3",
+      "game": "Ghost Trick - Phantom Directive"
     }
   ],
   "ps2": [
