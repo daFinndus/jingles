@@ -48,11 +48,11 @@
   ],
   "nds": [
     {
-      "file": "jingles/nds/pokemon_black.mp3",
+      "file": "jingles/nds/pokemon_black_version.mp3",
       "game": "Pokemon - Black Version"
     },
     {
-      "file": "jingles/nds/pokemon_black-2.nds",
+      "file": "jingles/nds/pokemon_black_version-2.nds",
       "game": "Pokemon - Black Version 2"
     },
     {
