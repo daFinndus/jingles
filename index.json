@@ -40,6 +40,10 @@
     {
       "file": "jingles/gb/the_legend_of_zelda-links_awakening.mp3",
       "game": "The Legend of Zelda - Link's Awakening"
+    },
+    {
+      "file": "jingles/gb/wario_land.mp3",
+      "game": "Wario Land"
     }
   ],
   "gba": [
