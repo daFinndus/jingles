@@ -54,6 +54,34 @@
     {
       "file": "jingles/gba/pokemon_sapphire.mp3",
       "game": "Pokemon - Sapphire"
+    },
+    {
+      "file": "jingles/gba/super_mario_advance.mp3",
+      "game": "Super Mario Advance"
+    },
+    {
+      "file": "jingles/gba/super_mario_advance-2.mp3",
+      "game": "Super Mario Advance 2"
+    },
+    {
+      "file": "jingles/gba/super_mario_advance-3.mp3",
+      "game": "Super Mario Advance 3"
+    },
+    {
+      "file": "jingles/gba/super_mario_advance-4.mp3",
+      "game": "Super Mario Advance 4"
+    },
+    {
+      "file": "jingles/gba/the_legend_of_zelda-minish_cap.mp3",
+      "game": "The Legend of Zelda - Minish Cap"
+    },
+    {
+      "file": "jingles/gba/yu_gi_oh-reshef_of_destruction.mp3",
+      "game": "Yu-Gi-Oh! - Reshef of Destruction"
+    },
+    {
+      "file": "jingles/gba/yu_gi_oh-ultimate_masters_edition.mp3",
+      "game": "Yu-Gi-Oh! - Ultimate Masters Edition"
     }
   ],
   "n3ds": [
@@ -292,6 +320,40 @@
     {
       "file": "jingles/ps2/lego_star_wars_ii-the_original_trilogy.mp3",
       "game": "LEGO Star Wars II - The Original Trilogy"
+    }
+  ],
+  "gbc": [
+    {
+      "file": "jingles/gbc/donkey_kong_country.mp3",
+      "game": "Donkey Kong Country"
+    },
+    {
+      "file": "jingles/gbc/donkey_kong_land-2.mp3",
+      "game": "Donkey Kong Land 2"
+    },
+    {
+      "file": "jingles/gbc/super_mario_bros_deluxe.mp3",
+      "game": "Super Mario Bros Deluxe"
+    },
+    {
+      "file": "jingles/gbc/super_mario_land-2.mp3",
+      "game": "Super Mario Land 2"
+    },
+    {
+      "file": "jingles/gbc/the_legend_of_zelda-oracle_of_ages.mp3",
+      "game": "The Legend of Zelda - Oracle of Ages"
+    },
+    {
+      "file": "jingles/gbc/the_legend_of_zelda-oracle_of_seasons.mp3",
+      "game": "The Legend of Zelda - Oracle of Seasons"
+    },
+    {
+      "file": "jingles/gbc/wario_land-2.mp3",
+      "game": "Wario Land 2"
+    },
+    {
+      "file": "jingles/gbc/wario_land-3.mp3",
+      "game": "Wario Land 3"
     }
   ]
 }
