@@ -122,6 +122,10 @@
     {
       "file": "jingles/nds/ghost_trick-phantom_detective.mp3",
       "game": "Ghost Trick - Phantom Directive"
+    },
+    {
+      "file": "jingles/nds/pokemon_heart_gold.mp3",
+      "game": "Pokemon - Heart Gold"
     }
   ],
   "ps2": [
