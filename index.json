@@ -248,6 +248,10 @@
     {
       "file": "jingles/ps2/the_simpsons-hit_and_run.mp3",
       "game": "The Simpsons - Hit & Run"
+    },
+    {
+      "file": "jingles/ps2/lego_star_wars_ii-the_original_trilogy.mp3",
+      "game": "LEGO Star Wars II - The Original Trilogy"
     }
   ]
 }
