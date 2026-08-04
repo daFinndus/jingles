@@ -4,6 +4,42 @@
     {
       "file": "jingles/gb/pokemon_yellow.mp3",
       "game": "Pokemon - Yellow Version"
+    },
+    {
+      "file": "jingles/gb/bubble_bobble.mp3",
+      "game": "Bubble Bobble"
+    },
+    {
+      "file": "jingles/gb/bubble_bobble-2.mp3",
+      "game": "Bubble Bobble Part 2"
+    },
+    {
+      "file": "jingles/gb/donkey_kong.mp3",
+      "game": "Donkey Kong"
+    },
+    {
+      "file": "jingles/gb/donkey_kong_land.mp3",
+      "game": "Donkey Kong Land - New Colors"
+    },
+    {
+      "file": "jingles/gb/donkey_kong_land-3.mp3",
+      "game": "Donkey Kong Land 3"
+    },
+    {
+      "file": "jingles/gb/super_luigi_land.mp3",
+      "game": "Super Luigi Land"
+    },
+    {
+      "file": "jingles/gb/super_mario_land-3.mp3",
+      "game": "Super Mario Land 3"
+    },
+    {
+      "file": "jingles/gb/super_mario_land.mp3",
+      "game": "Super Mario Land"
+    },
+    {
+      "file": "jingles/gb/the_legend_of_zelda-links_awakening.mp3",
+      "game": "The Legend of Zelda - Link's Awakening"
     }
   ],
   "gba": [
