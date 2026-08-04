@@ -18,6 +18,14 @@
   ],
   "n3ds": [
     {
+      "file": "jingles/n3ds/lego_pirates_of_the_carribean-the_video_game.mp3",
+      "game": "LEGO Pirates of the Carribean - The Video Game"
+    },
+    {
+      "file": "jingles/n3ds/lego_star_wars_iii-the_clone_wars.mp3",
+      "game": "LEGO Star Wars III - The Clone Wars"
+    },
+    {
       "file": "jingles/n3ds/animal_crossing-new_leaf.mp3",
       "game": "Animal Crossing - New Leaf"
     },
@@ -40,23 +48,6 @@
   ],
   "nds": [
     {
-      "file": "jingles/nds/lego_harry_potter.mp3",
-      "game": "LEGO Harry Potter",
-      "regex": "harry potter"
-    },
-    {
-      "file": "jingles/nds/lego_pirates_of_the_carribean-the_video_game.mp3",
-      "game": "LEGO Pirates of the Carribean - The Video Game"
-    },
-    {
-      "file": "jingles/nds/lego_star_wars_ii-the_original_trilogy.mp3",
-      "game": "LEGO Star Wars II - The Original Trilogy"
-    },
-    {
-      "file": "jingles/nds/lego_star_wars_iii-the_clone_wars.mp3",
-      "game": "LEGO Star Wars III - The Clone Wars"
-    },
-    {
       "file": "jingles/nds/pokemon_black.mp3",
       "game": "Pokemon - Black Version"
     },
@@ -71,6 +62,62 @@
     {
       "file": "jingles/nds/animal_crossing-wild_world.mp3",
       "game": "Animal Crossing - Wild World"
+    },
+    {
+      "file": "jingles/nds/mario_kart-ds.mp3",
+      "game": "Mario Kart DS"
+    },
+    {
+      "file": "jingles/nds/fifa_09.mp3",
+      "game": "FIFA 09"
+    },
+    {
+      "file": "jingles/nds/grand_theft_auto-chinatown_wars.mp3",
+      "game": "Grand Theft Auto - Chinatown Wars"
+    },
+    {
+      "file": "jingles/nds/lego_harry_potter-years_1-4.mp3",
+      "game": "LEGO Harry Potter - Years 1-4"
+    },
+    {
+      "file": "jingles/nds/lego_harry_potter-years_5-7.mp3",
+      "game": "LEGO Harry Potter - Years 5-7"
+    },
+    {
+      "file": "jingles/nds/lego_star_wars-the_complete_saga.mp3",
+      "game": "LEGO Star Wars - The Complete Saga"
+    },
+    {
+      "file": "jingles/nds/mario_party-ds.mp3",
+      "game": "Mario Party DS"
+    },
+    {
+      "file": "jingles/nds/new_super_mario_bros.mp3",
+      "game": "New Super Mario Bros"
+    },
+    {
+      "file": "jingles/nds/nintendogs.mp3",
+      "game": "Nintendogs"
+    },
+    {
+      "file": "jingles/nds/super_mario_64.mp3",
+      "game": "Super Mario 64"
+    },
+    {
+      "file": "jingles/nds/the_legend_of_zelda-phantom_hourglass.mp3",
+      "game": "The Legend of Zelda - Phantom Hourglass"
+    },
+    {
+      "file": "jingles/nds/the_legend_of_zelda-spirit_tracks.mp3",
+      "game": "The Legend of Zelda - Spirit Tracks"
+    },
+    {
+      "file": "jingles/nds/the_sims_2.mp3",
+      "game": "The Sims 2"
+    },
+    {
+      "file": "jingles/nds/the_sims_2-castaway.mp3",
+      "game": "The Sims 2 - Castaway"
     }
   ],
   "ps2": [
