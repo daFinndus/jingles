@@ -44,6 +44,86 @@
     {
       "file": "jingles/n3ds/pokemon_x.mp3",
       "game": "Pokemon - X"
+    },
+    {
+      "file": "jingles/n3ds/lego_batman_2-dc_super_heroes.mp3",
+      "game": "LEGO Batman 2 - DC Super Heroes"
+    },
+    {
+      "file": "jingles/n3ds/lego_batman_3-beyond_gotham.mp3",
+      "game": "LEGO Batman 3 - Beyond Gotham"
+    },
+    {
+      "file": "jingles/n3ds/lego_lord_of_the_rings.mp3",
+      "game": "LEGO Lord of the Rings"
+    },
+    {
+      "file": "jingles/n3ds/lego_star_wars-the_force_awakens.mp3",
+      "game": "LEGO Star Wars - The Force Awakens"
+    },
+    {
+      "file": "jingles/n3ds/lego_the_hobbit.mp3",
+      "game": "LEGO The Hobbit"
+    },
+    {
+      "file": "jingles/n3ds/luigis_mansion.mp3",
+      "game": "Luigi's Mansion"
+    },
+    {
+      "file": "jingles/n3ds/luigis_mansion-2.mp3",
+      "game": "Luigi's Mansion 2"
+    },
+    {
+      "file": "jingles/n3ds/luigis_mansion-dark_moon.mp3",
+      "game": "Luigi's Mansion - Dark Moon"
+    },
+    {
+      "file": "jingles/n3ds/mario_and_luigi-bowsers_inside_story.mp3",
+      "game": "Mario & Luigi - Bowser's Inside Story"
+    },
+    {
+      "file": "jingles/n3ds/mario_and_luigi-dream_team.mp3",
+      "game": "Mario & Luigi - Dream Team"
+    },
+    {
+      "file": "jingles/n3ds/mario_and_luigi-paper_jam_bros.mp3",
+      "game": "Mario & Luigi - Paper Jam Bros"
+    },
+    {
+      "file": "jingles/n3ds/mario_and_luigi-superstar_saga.mp3",
+      "game": "Mario & Luigi - Superstar Saga"
+    },
+    {
+      "file": "jingles/n3ds/mario_kart-7.mp3",
+      "game": "Mario Kart 7"
+    },
+    {
+      "file": "jingles/n3ds/super_mario_3d_land.mp3",
+      "game": "Super Mario 3D Land"
+    },
+    {
+      "file": "jingles/n3ds/super_mario_bros-2.mp3",
+      "game": "Super Mario Bros 2"
+    },
+    {
+      "file": "jingles/n3ds/super_smash_bros.mp3",
+      "game": "Super Smash Bros 3DS"
+    },
+    {
+      "file": "jingles/n3ds/the_legend_of_zelda-a_link_between_worlds.mp3",
+      "game": "The Legend of Zelda - A Link Between Worlds"
+    },
+    {
+      "file": "jingles/n3ds/the_legend_of_zelda-majoras_mask.mp3",
+      "game": "The Legend of Zelda - Majora's Mask"
+    },
+    {
+      "file": "jingles/n3ds/the_legend_of_zelda-ocarina_of_time.mp3",
+      "game": "The Legend of Zelda - Ocarina of Time"
+    },
+    {
+      "file": "jingles/n3ds/tomodachi_life.mp3",
+      "game": "Tomodachi Life"
     }
   ],
   "nds": [
